@@ -1,0 +1,50 @@
+body {
+  width: 1024px;
+  margin: 0 auto;
+}
+.avatar {
+  border: 7px double hsl(310, 36%, 10%);
+}
+
+.avatar:hover {
+  transform: scale(2);
+}
+
+p, 
+p,
+li {
+  line-height: 1.5em;
+}
+
+h2 {
+  margin-top: 0;
+  text-decoration: underline;
+}
+
+a {
+  color: hsl(309, 49%, 17%); 
+  color: hsl(309, 49%, 17%);
+  text-decoration: none;
+}
+
+
+.footer {
+  padding: 20px;
+
+  background: hsl(309, 49%, 17%);
+  border-top: 3px solid hsl(310, 36%, 10%);
+}
+
+.footer-container {
+  box-sizing: border-box;
+  width: 900px;
+  margin: 0 auto;
+}
+
+footer p {
+  margin: 0;
+  font-size: 1.8em;
+  text-align: center;
+  color: hsl(43, 72%, 95%);
+  letter-spacing: 0.05em;
+}
