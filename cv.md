@@ -13,7 +13,7 @@ My goal is to become a __Front-End Developer__ and to change career direction. I
 + Fluent French
 I learned programming by dint of platforms (*codecademy, htmlacademy, geekbrains*)
 
-## Code exemple: 
+## Code exemple: [https://github.com/macarena15](https://github.com/macarena15)
 
 ## Education
 
